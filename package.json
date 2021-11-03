@@ -10,6 +10,10 @@
   "keywords": [
     "JavaScript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CamiloEMP/RickAndMortyAPI.git"
+  },
   "author": "Camilo Mora <morapaezc@gmail.com>",
   "license": "ISC",
   "devDependencies": {
